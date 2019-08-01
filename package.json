@@ -1,12 +1,12 @@
 {
   "name": "koa-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/pearofducks/koa-polyfill",
   "description": "middleware to provide dynamic polyfills - based on polyfill.io v3",
   "main": "middleware.js",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/pearofducks/koa-polyfill.git"
+    "type": "git",
+    "url": "https://github.com/pearofducks/koa-polyfill.git"
   },
   "scripts": {
     "dev": "nodemon node ."
